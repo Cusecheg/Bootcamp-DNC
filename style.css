@@ -249,5 +249,12 @@ footer .linha2 a:first-child{
     .Checkbox-itens label{
         font-size: 18px;
     }
-    
+    /*footer*/
+    footer .linha1{
+        flex-direction: column;
+    }
+    footer .endereço{
+        width: 95%;
+        margin-bottom: 20px;
+    }
 }
